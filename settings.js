@@ -11,8 +11,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "242067274660"
-global.ownername = "🩵 𝙱𝚊𝚛𝚛𝚢 𝙰𝚕𝚕𝚎𝚗 "
+global.ownernomer = "50943212342"
+global.ownername = "TAP-NO|ONE👾☠️💀🤖"
 global.ytname = "YT: SSK-FAMILYCAMPAGNY"
 global.socialm = "GitHub: BarryAllen100"
 global.location = "Togo, maritime, Lomé"
@@ -59,15 +59,15 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 //reply messages
 global.mess = {
-    done: '𝐃𝐨𝐧𝐞 !',
-    prem: '𝐓𝐡𝐢𝐬 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐜𝐚𝐧 𝐛𝐞 𝐮𝐬𝐞𝐝 𝐛𝐲 𝐩𝐫𝐞𝐦𝐢𝐮𝐦 𝐮𝐬𝐞𝐫 𝐨𝐧𝐥𝐲',
-    admin: '𝐓𝐡𝐢𝐬 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐜𝐚𝐧 𝐛𝐞 𝐮𝐬𝐞𝐝 𝐛𝐲 𝐚𝐝𝐦𝐢𝐧 𝐨𝐧𝐥𝐲',
-    botAdmin: '𝐓𝐡𝐢𝐬 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐜𝐚𝐧 𝐨𝐧𝐥𝐲 𝐛𝐞 𝐮𝐬𝐞𝐝 𝐰𝐡𝐞𝐧 𝐭𝐡𝐞 𝐛𝐨𝐭 𝐢𝐬 𝐚 𝐠𝐫𝐨𝐮𝐩 𝐚𝐝𝐦𝐢𝐧',
-    owner: '𝐓𝐡𝐢𝐬 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐜𝐚𝐧 𝐛𝐞 𝐮𝐬𝐞𝐝 𝐛𝐲 𝐨𝐰𝐧𝐞𝐫 𝐨𝐧𝐥𝐲',
-    group: '𝐓𝐡𝐢𝐬 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐠𝐫𝐨𝐮𝐩𝐬',
-    private: '𝐓𝐡𝐢𝐬 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐩𝐫𝐢𝐯𝐚𝐭𝐞 𝐜𝐡𝐚𝐭𝐬',
-    wait: '𝐈𝐧 𝐩𝐫𝐨𝐜𝐞𝐬𝐬...',    
-    error: '𝐄𝐫𝐫𝐨𝐫!',
+    done: 'Fini ui zanmi!',
+    prem: 'Gyètmanmanw fout mandem anvan ou itlize kòmand sa🖕',
+    admin: 'Ou soumoun konsa mande pèmi pouw ka itilize kòmand sa😠',
+    botAdmin: 'Bèt a kòn se fout admin ou yeh🤬',
+    owner: 'Bot sa se fout koko manmanw li ye oh oh😡',
+    group: 'Nèg sòt kòmand sa se pou gwoup li fout ye😑',
+    private: 'ou pa fout konnen kòmand sa se pou mesaj prive li yeh🥴',
+    wait: 'Talh zanmi map jere sa...🥱',    
+    error: 'Ou voye kaka zanmi😎!',
 }
 
 global.thumb = fs.readFileSync('./barryMedia/thumb.jpg')
